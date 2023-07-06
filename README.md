@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sjg02122
 - 👀 I’m interested in monocular 3d object detection, monocular depth estimation, Local Feature Matching and Visual SLAM..
-- 🌱 I’m received M.S. in Electrical Engineering and Computer Science(EECS) at DGIST(Daegu Gyeongbuk Institute of Science and Technology)
+- 🌱 I received M.S. in Electrical Engineering and Computer Science(EECS) at DGIST(Daegu Gyeongbuk Institute of Science and Technology)
 - 🌱 I'm currently working at Hyundai Motors Group (HMG).
 - 📫 How to reach me.. [sjg02122@dgist.ac.kr] or [jinwoobae@hyundai.com]
 <!---
